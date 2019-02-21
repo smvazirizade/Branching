@@ -1,1 +1,2 @@
 FeatureB branch1
+by remote
