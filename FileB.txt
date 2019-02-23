@@ -1,2 +1,3 @@
 FeatureB
 B
+B_by_branch1
